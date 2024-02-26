@@ -12,6 +12,7 @@ https://drive.google.com/file/d/1Y76qp0oxq0OWJMhI8lJmNG4PuA_ceTux/view?usp=drive
 https://www.loom.com/share/87b11439d6f149eeb04dabb6f64ffe1a?sid=fb106188-8541-44c1-9cc8-a18419da55af
 
 -------------------------Assignment 7: Learn Kubernetes  ----------------------------------------------------------
+
 Task1:
 https://www.loom.com/share/952a7fde11034fcd890000e05d23aba0?sid=27be90e3-7f3b-4237-86f8-f33fb24fb23f
 
